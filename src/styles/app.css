@@ -1,0 +1,25 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  body {
+    /* background-color: darkviolet; */
+  }
+  #submit {
+    background-color: limegreen;
+  }
+  
+  .card {
+    margin-top: 2rem;
+  }
+  
+
+  .header { 
+      color: cornflowerblue;
+  }
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
